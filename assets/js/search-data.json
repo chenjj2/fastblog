@@ -2,8 +2,8 @@
   
     
         "post0": {
-            "title": "display",
-            "content": ". import matplotlib.pyplot as plt import numpy as np . x = np.arange(-3, 3, 0.1) y = np.sin(x) plt.plot(x, y) . [&lt;matplotlib.lines.Line2D at 0x7f2aedc3a910&gt;] . .",
+            "title": "Tabby Title",
+            "content": "Display . $$e^{ix} = cos(x) + i sin(x)$$ . Inline . This is inline: $e^{ix} = cos(x) + i sin(x)$. . import matplotlib.pyplot as plt import numpy as np . x = np.arange(-3, 3, 0.1) y = np.sin(x) plt.plot(x, y) . [&lt;matplotlib.lines.Line2D at 0x7f2aedc3a910&gt;] . .",
             "url": "https://chenjj2.github.io/fastblog/2021/04/05/tabbytabby.html",
             "relUrl": "/2021/04/05/tabbytabby.html",
             "date": " • Apr 5, 2021"
